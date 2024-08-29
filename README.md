@@ -3,16 +3,17 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento web e Python. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá University e sempre buscando aprender e me aprimorar em novas tecnologias.
 
 🚀 Minhas habilidades
-Linguagens de Programação: Python, JavaScript, HTML, CSS
-Frameworks e Bibliotecas: Flask, Django, React
-Ferramentas: Git, GitHub, Visual Studio Code, Ubuntu
-Outros: Análise de Dados, Gestão de Projetos, Desenvolvimento de APIs
+-->Linguagens de Programação: Python, JavaScript, HTML, CSS
+-->Frameworks e Bibliotecas: Flask, Django, React
+-->Ferramentas: Git, GitHub, Visual Studio Code, Ubuntu
+-->Outros: Análise de Dados, Gestão de Projetos, Desenvolvimento de APIs
+
 🌱 O que estou aprendendo
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e explorar mais profundamente o desenvolvimento de APIs e integrações.
+-->Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e explorar mais profundamente o desenvolvimento de APIs e integrações.
 
 💼 Experiência Profissional
-Olist: Desenvolvi um sistema de ticketing que melhorou significativamente as métricas da equipe e a satisfação dos clientes.
-Projetos Pessoais: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
+-->Trabalho: Desenvolvi um sistema de ticketing que melhorou significativamente as métricas da equipe e a satisfação dos clientes.
+-->Projetos Pessoais: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
 
 📫 Como me encontrar
 LinkedIn: linkedin.com/in/gustavo-faria

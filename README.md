@@ -3,6 +3,7 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento web e Python. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá University e sempre buscando aprender e me aprimorar em novas tecnologias.
 
 🚀 Minhas habilidades.
+
 -->Linguagens de Programação: Python, JavaScript, HTML, CSS.
 -->Frameworks e Bibliotecas: Flask, Django, React.
 -->Ferramentas: Git, GitHub, Visual Studio Code, Ubuntu.
@@ -16,7 +17,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 -->Projetos Pessoais: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
 
 📫 Como me encontrar.
+
 LinkedIn: linkedin.com/in/gustavo-faria
+
 GitHub: github.com/GusHFaria
 Instagran: @gustavoh_faria
 Email: gustavo.faria.it@gmail.com

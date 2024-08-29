@@ -4,10 +4,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 
 🚀 Minhas habilidades.
 
--->Linguagens de Programação: Python, JavaScript, HTML, CSS.
--->Frameworks e Bibliotecas: Flask, Django, React.
--->Ferramentas: Git, GitHub, Visual Studio Code, Ubuntu.
--->Outros: Análise de Dados, Gestão de Projetos, Desenvolvimento de APIs.
+- **Linguagens de Programação:** Python, JavaScript, HTML, CSS  
+- **Frameworks e Bibliotecas:** Flask, Django, React  
+- **Ferramentas:** Git, GitHub, Visual Studio Code, Ubuntu  
+- **Outros:** Análise de Dados, Gestão de Projetos, Desenvolvimento de APIs  
 
 🌱 O que estou aprendendo.
 

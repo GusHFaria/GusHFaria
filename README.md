@@ -10,9 +10,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 -->Outros: Análise de Dados, Gestão de Projetos, Desenvolvimento de APIs.
 
 🌱 O que estou aprendendo.
+
 -->Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e explorar mais profundamente o desenvolvimento de APIs e integrações.
 
 💼 Experiência Profissional.
+
 -->Trabalho: Desenvolvi um sistema de ticketing que melhorou significativamente as métricas da equipe e a satisfação dos clientes.
 -->Projetos Pessoais: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
 
@@ -21,7 +23,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 LinkedIn: linkedin.com/in/gustavo-faria
 
 GitHub: github.com/GusHFaria
+
 Instagran: @gustavoh_faria
+
 Email: gustavo.faria.it@gmail.com
 
 ⚡ Curiosidades.

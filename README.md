@@ -11,27 +11,24 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 
 ### 🌱 O que estou aprendendo
 
--->Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e explorar mais profundamente o desenvolvimento de APIs e integrações.
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e explorar mais profundamente o desenvolvimento de APIs e integrações.
 
-💼 Experiência Profissional.
+### 💼 Experiência Profissional
 
--->Trabalho: Desenvolvi um sistema de ticketing que melhorou significativamente as métricas da equipe e a satisfação dos clientes.
--->Projetos Pessoais: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
+- **Trabalho**: Desenvolvi um sistema de ticketing que melhorou significativamente as métricas da equipe e a satisfação dos clientes.
+- **Projetos Pessoais**: Criei diversas soluções e automações utilizando Python para otimizar processos e melhorar fluxos de trabalho.
 
-📫 Como me encontrar.
+### 📫 Como me encontrar
 
-LinkedIn: linkedin.com/in/gustavo-faria
+- **LinkedIn**: [linkedin.com/in/gustavo-faria]
+- **GitHub**: [github.com/GusHFaria]
+- **Instagran**: [@gustavoh_faria]
+- **Email**: [gustavo.faria.it@gmail.com]
 
-GitHub: github.com/GusHFaria
-
-Instagran: @gustavoh_faria
-
-Email: gustavo.faria.it@gmail.com
-
-⚡ Curiosidades.
-Gosto de resolver problemas complexos e encontrar soluções criativas para desafios tecnológicos.
-Adoro colaborar com outros desenvolvedores e aprender em comunidade.
-No meu tempo livre, gosto de explorar novas tecnologias e contribuir para projetos de código aberto.
+### ⚡ Curiosidades
+- Gosto de resolver problemas complexos e encontrar soluções criativas para desafios tecnológicos.
+- Adoro colaborar com outros desenvolvedores e aprender em comunidade.
+- No meu tempo livre, gosto de explorar novas tecnologias e contribuir para projetos de código aberto.
 
 <!--
 **GusHFaria/GusHFaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

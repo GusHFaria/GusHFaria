@@ -20,10 +20,10 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Full
 
 ### 📫 Como me encontrar
 
-- **LinkedIn**: [linkedin.com/in/gustavo-faria]
-- **GitHub**: [github.com/GusHFaria]
-- **Instagran**: [@gustavoh_faria]
-- **Email**: [gustavo.faria.it@gmail.com]
+- **LinkedIn**: linkedin.com/in/gustavo-faria
+- **GitHub**: github.com/GusHFaria
+- **Instagran**: @gustavoh_faria
+- **Email**: gustavo.faria.it@gmail.com
 
 ### ⚡ Curiosidades
 - Gosto de resolver problemas complexos e encontrar soluções criativas para desafios tecnológicos.
